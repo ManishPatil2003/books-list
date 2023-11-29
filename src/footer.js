@@ -11,7 +11,7 @@ const Footer = () => {
               textDecoration: "underline",
               color: "white",
             }}
-            href="https://jatiinyadav.github.io"
+            href="https://github.com/ManishPatil2003/"
             target="_blank"
             rel="noreferrer"
           >
