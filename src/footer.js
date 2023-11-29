@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
       <footer>
         <h4>
-          &#60;&#47;&#62; with ❤️ & ☕ by{" "}
+           Created   by{" "}
           <a
             style={{
               textDecoration: "underline",
@@ -15,7 +15,7 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Jatin Yadav
+            Manish Patil
           </a>
         </h4>
       </footer>

@@ -35,6 +35,10 @@ const Searchform = ({ searchText }) => {
         }}
       >
         <input
+          style={{
+            borderRadius:"25px",
+            padding:"25px"
+          }}
           type="text"
           placeholder="Search Chetan Bhagat, Vikram Seth etc.."
           onChange={onChangevalue}
@@ -43,8 +47,8 @@ const Searchform = ({ searchText }) => {
           style={{
             marginLeft: "1rem",
             transition: "all 0.3s ease 0s",
-            padding: "0.6rem",
-            borderRadius: "0.2rem",
+            padding: "17px",
+            borderRadius: "20px",
             cursor: "pointer",
           }}
           type="submit"
